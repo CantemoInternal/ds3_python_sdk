@@ -17,4 +17,5 @@ setup(name='DS3-SDK',
     version='3.2.0',
     description='Python SDK and CLI for Spectra S3',
     author_email='developer@spectralogic.com',
-    packages=['ds3'])
+    packages=['ds3'],
+    license="Apache License 2.0")
